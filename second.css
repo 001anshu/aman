@@ -1,8 +1,13 @@
 jaya jaganath
 jaya jaganath 
+hare krishna hare krishna 
+krishna krishna hare hare 
+hare rama hare rama 
+rama rama hare hare
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+jaya
 #container{
     padding: 100px;
     display: grid;
@@ -49,7 +54,7 @@ body{
 #container>div>p{
     border: 1px solid red;
     margin: 30px;
-    text-align: justify;
+    
     
 }
 
